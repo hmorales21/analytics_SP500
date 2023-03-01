@@ -1,5 +1,5 @@
 <p align='center'>
-<img src ./data/pi2_analytics_readme_header.png">
+<img src ./assets/pi2_analytics_readme_header.png">
 <p>
 
 <h1 align='center'>
